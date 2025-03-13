@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Niklaus Zettelkasten</title>
+      <link>https://somnath-muthukumaran.github.io</link>
+      <description>Last 10 notes on Niklaus Zettelkasten</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to Niklaus Zettelkasten</title>
+    <link>https://somnath-muthukumaran.github.io/</link>
+    <guid>https://somnath-muthukumaran.github.io/</guid>
+    <description></description>
+    <pubDate>Thu, 13 Mar 2025 07:05:08 GMT</pubDate>
+  </item><item>
+    <title>Backend</title>
+    <link>https://somnath-muthukumaran.github.io/3---Tags/Backend</link>
+    <guid>https://somnath-muthukumaran.github.io/3---Tags/Backend</guid>
+    <description></description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Data Structures</title>
+    <link>https://somnath-muthukumaran.github.io/3---Tags/Data-Structures</link>
+    <guid>https://somnath-muthukumaran.github.io/3---Tags/Data-Structures</guid>
+    <description></description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Child</title>
+    <link>https://somnath-muthukumaran.github.io/5---Template/Child</link>
+    <guid>https://somnath-muthukumaran.github.io/5---Template/Child</guid>
+    <description>{{date}} {{time}} Status: Parent: {{Title}} References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Parent or Atomic</title>
+    <link>https://somnath-muthukumaran.github.io/5---Template/Parent-or-Atomic</link>
+    <guid>https://somnath-muthukumaran.github.io/5---Template/Parent-or-Atomic</guid>
+    <description>{{date}} {{time}} Status: Tags: Parent: {{Title}} References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Day One of Zettelkasten</title>
+    <link>https://somnath-muthukumaran.github.io/6---Atomic-Notes/Day-One-of-Zettelkasten</link>
+    <guid>https://somnath-muthukumaran.github.io/6---Atomic-Notes/Day-One-of-Zettelkasten</guid>
+    <description>2024-06-06 00:46 Status: mature Tags: Day One of Zettelkasten References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>2024-06-06</title>
+    <link>https://somnath-muthukumaran.github.io/Daily-Notes/2024/June/2024-06-06</link>
+    <guid>https://somnath-muthukumaran.github.io/Daily-Notes/2024/June/2024-06-06</guid>
+    <description>2024-06-06 01:05 Status: Tags: Initiated obsidian to build a better memory References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Circular doubly linked lists</title>
+    <link>https://somnath-muthukumaran.github.io/1---Rough-Notes/Circular-doubly-linked-lists</link>
+    <guid>https://somnath-muthukumaran.github.io/1---Rough-Notes/Circular-doubly-linked-lists</guid>
+    <description>2024-06-06 10:39 Status: child Parent: Linked List Circular doubly linked lists References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Circular linked lists</title>
+    <link>https://somnath-muthukumaran.github.io/1---Rough-Notes/Circular-linked-lists</link>
+    <guid>https://somnath-muthukumaran.github.io/1---Rough-Notes/Circular-linked-lists</guid>
+    <description>2024-06-06 10:39 Status: child Parent: Linked List Circular linked lists References.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item><item>
+    <title>Doubly linked lists</title>
+    <link>https://somnath-muthukumaran.github.io/1---Rough-Notes/Doubly-linked-lists</link>
+    <guid>https://somnath-muthukumaran.github.io/1---Rough-Notes/Doubly-linked-lists</guid>
+    <description>2024-06-06 10:39 Status: child Parent: Linked List Doubly linked lists References Linked List.</description>
+    <pubDate>Thu, 13 Mar 2025 07:05:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
